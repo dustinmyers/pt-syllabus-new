@@ -88,6 +88,8 @@
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
   - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
+- Lesson Video:
+  - [Github](https://vimeo.com/groups/329831/videos/142188795)
 - Learning Objectives
     - Students will understand and be able to use the command line for
       - creating a folder
@@ -118,6 +120,8 @@
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
 - Pre-Reading:
   - [Codecademy HTML/CSS](http://www.codecademy.com/en/tracks/web)
+- Lesson Video:
+  - [HTML Basics](https://vimeo.com/groups/329831/videos/142279564)
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -152,6 +156,8 @@
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
 - Pre-Reading:
   - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Learning Objectives
   - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
   - Students will understand the purpose of CSS
@@ -170,6 +176,8 @@
 #### <a name="day21"></a> Day 1 - Advanced HTML & CSS
 - Pre-Reading:
   - [Positioning in CSS](http://quirksmode.org/css/css2/position.html)
+- Lesson Video:
+  - [Advanced HTML & CSS](https://vimeo.com/groups/329831/videos/142543876)
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
@@ -183,6 +191,8 @@
 #### <a name="day22"></a> Day 2 - JavaScript Fundamentals I
 - Pre-Reading:
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
