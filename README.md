@@ -83,13 +83,13 @@
 
 
 ## <a name="week1"></a> Week 1
-#### <a name="day11"></a>Day 1 - Orientation & Version Control
+#### <a name="day11"></a>Day 1 - Github & Version Control
 - Pre-Reading:
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
   - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Lesson Video:
-  - [Github](https://vimeo.com/groups/329831/videos/142188795)
+  - [Github](https://vimeo.com/groups/345952/videos/142188795) 1 Hour 6 Minutes
 - Learning Objectives
     - Students will understand and be able to use the command line for
       - creating a folder
@@ -121,7 +121,7 @@
 - Pre-Reading:
   - [Codecademy HTML/CSS](http://www.codecademy.com/en/tracks/web)
 - Lesson Video:
-  - [HTML Basics](https://vimeo.com/groups/329831/videos/142279564)
+  - [HTML Basics](https://vimeo.com/groups/345952/videos/147497917) 2 Hours 7 Minutes
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -155,9 +155,9 @@
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
 - Pre-Reading:
-  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position) 1 Hour 45 Minutes
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [HTML/CSS Positioning](https://vimeo.com/groups/345952/videos/147626538)
 - Learning Objectives
   - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
   - Students will understand the purpose of CSS
@@ -167,8 +167,7 @@
   - Students will understand and be able to use max/min-width and max/min-height
 - Projects:
   - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
-  - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
-- Additional Reading:
+- Additional Reading
 - Assessment
   - [CSS Positioning](https://codecard.io/a/cardio-preview/N48JWYIl2)
 
@@ -177,22 +176,35 @@
 - Pre-Reading:
   - [Positioning in CSS](http://quirksmode.org/css/css2/position.html)
 - Lesson Video:
-  - [Advanced HTML & CSS](https://vimeo.com/groups/329831/videos/142543876)
+  - [Advanced HTML & CSS](https://vimeo.com/groups/345952/videos/147756391) 1 Hour 52 Minutes
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
   - Students will understand when and when not to use floating elements
 - Project:
-  - [WideopenTech](http://wideopentech.com/) - Clone the homepage for this website
+  - [Wikimedia Clone](http://wikimedia.com/) - Clone the homepage for this website
 - Additional Reading:
+  - [Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - Assessment
   - [Advanced CSS](https://codecard.io/a/cardio-preview/drowaufeV)
 
-#### <a name="day22"></a> Day 2 - JavaScript Fundamentals I
+#### <a name="day22"></a> Day 2 - Advanced CSS
+- Before class:
+  - No video. Work on previous projects or re-watch lessons on Vimeo, or follow an online tutorial about HTML and CSS. Just make sure you do something! Keep up the momentum!!!
+- Learning Objectives
+  - Students will understand and be able to explain the box model to someone else
+  - Students will understand media queries and be able to implement them
+  - Students will understand when and when not to use floating elements
+- Project:
+  - [Wideopen Tech Clone](http://wideopentech.com/) - Clone the homepage for this website
+- Additional Reading:
+  - [Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+
+#### <a name="day23"></a> Day 3 - JavaScript Fundamentals I
 - Pre-Reading:
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
 - Lesson Video:
-  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+  - [Javascript Fundamentals](https://vimeo.com/groups/339648/videos/147892710) 2 Hours 4 Minutes
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
@@ -215,34 +227,70 @@
   - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
   - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
 
-#### <a name="day23"></a> Day 3 - JavaScript Fundamentals II & III
+## <a name="week3"></a> Week 3
+#### <a name="day21"></a> Day 1 - JavaScript Fundamentals II
 - Pre-Reading:
-  - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
+  - [Eloquent JavaScript - Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+- Lesson Video:
+  - [Javascript Fundamentals II & III](https://vimeo.com/groups/345952/videos/148132097) - This video covers content for two classes. 2 hours 22 minutes.
 - Learning Objectives
-  - Objects
-    - Students will understand use cases for objects
-    - Students will understand how to create and add properties/values to objects
-    - Students will understand how to loop through objects
-    - Students will understand how to create and invoke a method
-    - Students will understand bracket notation vs dot notation
-    - Students will understand how to remove keys/props from objects (delete)
-  - Arrays
+  - Students will understand Arrays:
     - purpose
     - how to get values from arrays
     - array properties (length, push/pop, shift/unshift, split/join, splice/slice, reverse, indexOf)
     - how to create an array
     - how to loop through an array
+- Project:
+  - [Array Fiddles](https://github.com/DevMountain/JS-Arrays)
+- Additional Reading:
+
+#### <a name="day32"></a> Day 2 - JS Fundamentals III
+- Pre-Reading:
+    - [Javascript Fundamentals II & III](https://vimeo.com/groups/345952/videos/148132097) - Same video as yesterday. 2 hours 22 minutes.
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
+- Learning Objectives
+  - Students will understand how Objects differ from Arrays
+  - Students will understand use cases for objects
+  - Students will understand how to create and add properties/values to objects
+  - Students will understand how to loop through objects
+  - Students will understand how to create and invoke a method
+  - Students will understand bracket notation vs dot notation
+  - Students will understand how to remove keys/props from objects (delete)
 - Projects:
   - [JavaScript Objects](https://github.com/DevMountain/object-fiddles)
-  - [JavaScript Arrays](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
-- Assessment
-  - [JS Fundamentals II & III](https://codecard.io/a/cardio-preview/NE7Le2j0R)
+  - [High Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
-## <a name="week3"></a> Week 3
-#### <a name="day31"></a> Day 1 - JS Fundamentals IV
+
+#### <a name="day33"></a> Day 3 - JS Advanced JS I
+- Pre-Reading:
+  - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- Lesson Video:
+  - [JS Callbacks & Prototypes](https://vimeo.com/groups/345952/videos/148390556) 1 Hour 11 Minutes
+- Learning Objectives
+  - Students will understand synchronous vs asynchronous programming
+  - Students will be able to talk about what a callback is
+  - Students will understand the use cases of callbacks
+  - Students will be able to identify and use callbacks
+  - Students will understand what prototypes are in JavaScript
+  - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
+- Projects:
+  - [Callback Practice](https://github.com/DevMountain/callbackPractice)
+  - [Constructors](https://github.com/DevMountain/ConstructorConductor)
+  - [Utilities](https://github.com/DevMountain/utilities)
+- Additional Reading:
+  - [Electronic Life](http://eloquentjavascript.net/07_elife.html)
+- Assessment
+  - [JS Fundamentals V](https://codecard.io/a/cardio-preview/B4otuPc52)
+
+## <a name="week4"></a> Week 4
+#### <a name="day41"></a> Day 1 - Advanced JavaScript II
 - Pre-Reading:
   - [This with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+- Lesson Video:
+  - [JS - The "this" keyword](https://vimeo.com/groups/345952/videos/148264150) 1 Hour 49 Minutes
 - Learning Objectives
   - the purpose of the ‘this’ keyword
     - 4 rules for determining what ‘this’ is bound to
@@ -259,28 +307,27 @@
 - Assessment
   - [JS Fundamentals IV](https://codecard.io/a/cardio-preview/NY1gPKpju)
 
-
-#### <a name="day32"></a> Day 2 - JS Fundamentals V
+#### <a name="day42"></a> Day 2 - Advanced JavaScript III
 - Pre-Reading:
-  - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - Learning Objectives
-  - Students will understand synchronous vs asynchronous programming
-  - Students will be able to talk about what a callback is
-  - Students will understand the use cases of callbacks
-  - Students will be able to identify and use callbacks
-  - Students will undrestand what prototypes are in JavaScript 
-  - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
+  - Students will be able to define what a closure is
+  - Students will be able to identify when a closure is being used
 - Project:
-  - [Callback Practice](https://github.com/DevMountain/callbackPractice)
-  - [Constructor Conductor](https://github.com/DevMountain/ConstructorConductor)
-  - [Utilities](https://github.com/DevMountain/utilities)
+  - [Closure Practice](https://github.com/DevMountain/closurePractice)
 - Additional Reading:
-- Assessment
-  - [JS Fundamentals V](https://codecard.io/a/cardio-preview/B4otuPc52)
 
-#### <a name="day33"></a> Day 3 - jQuery I
+#### <a name="day43"></a> Day 3 - JavaScript Review
 - Pre-Reading:
+  - [JS is Sexy - Scopes and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+- Project:
+  - [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
+
+## <a name="week4"></a> Week 4
+#### <a name="day41"></a> Day 1 - jQuery I
+- Pre-Reading:
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Paint](https://github.com/DevMountain/mini-paint)
 - Learning Objectives
@@ -294,9 +341,10 @@
 - Assessment
   - [jQuery I](https://codecard.io/a/cardio-preview/N4mpVQGj2)
 
-## <a name="week4"></a> Week 4
-#### <a name="day41"></a> Day 1 - jQuery II
+#### <a name="day42"></a> Day 2 - jQuery II
 - Pre-Reading:
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Ajax](https://github.com/DevMountain/mini-ajax)
 - Learning Objectives
@@ -312,6 +360,8 @@
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
   - [Conceptual Intro to Angular](http://paislee.io/a-conceptual-introduction-to-angularjs/)
   - [Watch "Angular in 60-ish Minutes"](https://www.youtube.com/watch?v=i9MHigUZKEM)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
 - Learning Objectives
@@ -331,6 +381,8 @@
 #### <a name="day43"></a> Day 3 - AngularJS II
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [User Profiles](https://github.com/DevMountain/mini-userProfiles)
 - Learning Objectives
@@ -349,6 +401,8 @@
 - Pre-Reading:
   - [Angular's $http](https://egghead.io/lessons/angularjs-http)
   - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [User Profiles II](https://github.com/DevMountain/mini-userProfiles2)
 - Learning Objectives
@@ -365,6 +419,8 @@
 #### <a name="day52"></a> Day 2 - AngularJS IV
 - Pre-Reading:
   - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [User Profile III](https://github.com/DevMountain/mini-userProfiles3)
 - Learning Objectives
@@ -387,6 +443,8 @@
 #### <a name="day61"></a> Day 1 - Angular V
 - Pre-Reading:
   - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
@@ -406,6 +464,8 @@
 #### <a name="day62"></a> Day 2 - Angular VI
 - Pre-Reading:
   - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Time Directive](https://github.com/DevMountain/mini-timeDirective)
 - Learning Objectives
@@ -426,6 +486,8 @@
 #### <a name="day71"></a> Day 1 -  Firebase
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Firebase in angular to persist data to a server
@@ -453,6 +515,8 @@
 #### <a name="day81"></a> Day 1 - No Server Project
 
 #### <a name="day82"></a> Day 2 - NodeJS I
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
@@ -469,6 +533,8 @@
   - https://www.thenewboston.com/videos.php?cat=355
 
 #### <a name="day83"></a> Day 3 - NodeJS II
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -484,8 +550,12 @@
 
 ## <a name="week9"></a> Week 9
 #### <a name="day91"></a> Day 1 - NodeJS III
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - Rewrite in Progress
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Learning Objectives
   - Student can use Express to serve static files
   - Student can use routing in Express to create basic API endpoints
@@ -497,8 +567,12 @@
 
 
 #### <a name="day92"></a> Day 2 - MongoDB I
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Before class:
   - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Birds](https://github.com/jacob-israel-turner/mini-birds)
 - Learning Objectives
@@ -510,6 +584,8 @@
 - Additional Reading:
 
 #### <a name="day93"></a> Day 3 - MongoDB II
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
@@ -521,6 +597,8 @@
 
 ## <a name="week10"></a> Week 10
 #### <a name="day101"></a> Day 1 -  MongoDB III
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
  - Mini Project:
   - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
  - Learning Objectives
@@ -532,6 +610,8 @@
  - Additional Reading:
  
  #### <a name="day102"></a> Day 2 - NodeJS IV
+ - Lesson Video:
+   - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
 - Learning Objectives
@@ -547,6 +627,8 @@
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - React I
 - Pre-Reading:
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [mini-todo-list](https://github.com/ReactWeek/mini1-todolist)
 - Learning Objectives
@@ -564,6 +646,8 @@ CSS in React
 
 #### <a name="day112"></a> Day 2 - React II
 - Pre-Reading:
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
 - Learning Objectives
@@ -577,6 +661,8 @@ CSS in React
 
 #### <a name="day113"></a> Day 3 - React III
 - Pre-Reading:
+- Lesson Video:
+  - [HTML/CSS Positioning](https://vimeo.com/groups/329831/videos/142417320)
 - Mini Project:
   - [mini-flux](https://github.com/ReactWeek/mini4-todoflux)
 - Learning Objectives
